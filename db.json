@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Doe",
+      "prenom": "John",
+      "adresse": "123 Rue XYZ",
+      "codePostal": "12345",
+      "numeroTel": "5551234"
+    },
+    {
+      "id": 2,
+      "nom": "Smith",
+      "prenom": "Jane",
+      "adresse": "456 Rue ABC",
+      "codePostal": "67890",
+      "numeroTel": "5555678"
+    }
+  ]
+}
