@@ -15,6 +15,14 @@
       "adresse": "456 Rue ABC",
       "codePostal": "67890",
       "numeroTel": "5555678"
-    }
+    },
+     {
+      "id": 3,
+      "nom": "cyrine",
+      "prenom": "laaribi",
+      "adresse": "456 Rue ABC",
+      "codePostal": "67890",
+      "numeroTel": "5555678"
+    },
   ]
 }
